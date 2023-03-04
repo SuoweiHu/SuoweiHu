@@ -2,7 +2,6 @@
 
 <p><em>
 Software Enginner at <a href="www.anu.edu.au">Australian National University</a>
-<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 Junior Developer at <a href="https://opc.com.au/">OPC IT Pty Limited</a>
 </em></p>
 
