@@ -1,5 +1,9 @@
-<h2> Hi, I'm Thai Simon (Suowei Hu)! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Software Enginner at <a href="www.anu.edu.au">Australian National University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Junior Developer at <a href="https://opc.com.au/">OPC IT Pty Limited</a>
+<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+<p><em>
+Software Enginner at <a href="www.anu.edu.au">Australian National University</a>
+<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+Junior Developer at <a href="https://opc.com.au/">OPC IT Pty Limited</a>
 </em></p>
 
 [![Twitter:](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
