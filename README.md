@@ -28,3 +28,10 @@ const thai = {
  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
+
+<!-- This read me is inspired from: -->
+<!-- https://github.com/Thaiane/Thaiane -->
+<!-- https://github.com/anmol098/anmol098 -->
+<!-- ... -->
+<!-- ... -->
+
