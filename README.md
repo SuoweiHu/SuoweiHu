@@ -10,7 +10,7 @@ Junior Developer at <a href="https://opc.com.au/">OPC IT Pty Limited</a>
 
 
 [![Linkedin: Suowei Hu](https://img.shields.io/badge/-Suowei%20Hu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suowei-hu-0249b0181/)](https://www.linkedin.com/in/suowei-hu-0249b0181/)
-[![GitHub: Suowei Hu](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub: Suowei Hu](https://img.shields.io/github/followers/SuoweiHu?label=follow&style=social)](https://github.com/SuoweiHu)
 
 
 ### A little more about me...  
