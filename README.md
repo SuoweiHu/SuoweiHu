@@ -1,6 +1,5 @@
 <h2> Hi, I'm Thai Simon (Suowei Hu)! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="www.anu.edu.au">Australian National University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Junior Developer at <a href="https://opc.com.au/">OPC IT Pty Limited</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="www.anu.edu.au">Australian National University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Junior Developer at <a href="https://opc.com.au/">OPC IT Pty Limited</a>
 </em></p>
 
 [![Twitter:](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
@@ -12,16 +11,16 @@
 
 ```javascript
 const thai = {
-  pronouns: "she" | "her",
+  pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Docker, Flask],
+  architecture: ["microservices", "design system pattern", "model view controller"],
   techCommunities: {
                         coorganizer: "AfroPython",
                         speaker: "Latinity",
                         mentor: "EducaTRANSforma"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I'm striving to get myself adapting the work+uni mode."
 }
 ```
 
