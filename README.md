@@ -5,10 +5,10 @@
 
 <p><em>
 Software Enginner at <a href="www.anu.edu.au">Australian National University</a>
-Junior Developer at <a href="https://opc.com.au/">OPC IT Pty Limited</a>
+Junior Developer at <a href="https://opc.com.au/">OPC IT</a> Pty Limited
 <br/>  
 Инженер-программист в  <a href="www.anu.edu.au">ANU университете</a>
-Младший разработчик в <a href="https://opc.com.au/">OPC IT Pty Limited</a>
+Младший разработчик в <a href="https://opc.com.au/">OPC IT</a> Pty Limited
 </em></p>
 
 
