@@ -8,7 +8,7 @@ Software Enginner at <a href="www.anu.edu.au">Australian National University</a>
 Junior Developer at <a href="https://opc.com.au/">OPC IT</a> Pty Limited
 <br/>  
 Инженер-программист в  <a href="www.anu.edu.au">ANU университете</a>
-Младший разработчик в <a href="https://opc.com.au/">OPC IT</a> Pty Limited
+Младший разработчик в <a href="https://opc.com.au/">OPC IT</a>
 </em></p>
 
 
