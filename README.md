@@ -28,7 +28,7 @@ const thai = {
 }
 ```
 
- <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+ <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!<br/>воля может и должна быть предметом гордости гораздо больше, чем талант</b> :)</em>
 
 ---
 
