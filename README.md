@@ -21,11 +21,11 @@ Junior Developer at <a href="https://opc.com.au/">OPC IT</a> Pty Limited
 ### A little more about me...  
 
 ```javascript
-const thai = {
+const simon = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  code: [PHP, Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Docker, Flask],
-  architecture: ["microservices", "design system pattern", "model view controller"],
+  architecture: ["drupal (content management system)", "microservices", "design system pattern", "model view controller"],
   challenge: "I'm striving to get myself adapting the work+uni mode."
 }
 ```
