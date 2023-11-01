@@ -34,7 +34,10 @@ const simon = {
 }
 ```
 
- <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!<br/>воля может и должна быть предметом гордости гораздо больше, чем талант</b> :)</em>
+<br/>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</em>
+<br/>
+<em>воля может и должна быть предметом гордости гораздо больше, чем талант</b> :)</em>
 
 ---
 
