@@ -33,11 +33,10 @@ const simon = {
   tools:        ['MAMP', 'Docker', 'Raycast', 'Vercel', 'Visual Studio', 'Vim (Procrastinator)'],
 }
 ```
+<br/>
 
-<br/>
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</em>
-<br/>
-<em>воля может и должна быть предметом гордости гораздо больше, чем талант</b> :)</em>
+<em><b>I love connecting with different people</b> so if you want to say hi, I'll be happy to meet you more! :)</em> <br/>
+<em>воля может и должна быть предметом гордости гораздо больше, чем талант</em>
 
 ---
 
