@@ -25,12 +25,12 @@ Junior Developer at <a href="https://opc.com.au/">OPC IT</a> Pty Limited
 
 ```javascript
 const simon = {
-  pronouns: "he" | "him",
-  code: [PHP, Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Docker, Flask],
-  cms: [drupal, wordpress, hugo]
-  architecture: [microservices, design system pattern, model view controller],
-  challenge: "I'm striving to get myself adapting the work+uni mode."
+  pronouns:     'he' | 'him',
+  challenge:    'I am striving to get myself adapting the work+uni mode.'
+  code:         ['PHP', 'Javascript', 'Typescript', 'Twig', 'HTML', 'CSS', 'Ruby', 'Python', 'Java'],
+  tools:        ['MAMP', 'Docker', 'React','Redux', 'Node', 'Flask'],
+  cms:          ['Drupal', 'Wordpress', 'Hugo'],
+  architecture: ['microservices', 'design system pattern', 'model view controller'],
 }
 ```
 
