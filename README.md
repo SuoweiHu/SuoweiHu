@@ -19,7 +19,7 @@ Junior Developer at <a href="https://opc.com.au/">OPC IT</a> Pty Limited
 <!--&nbsp; -->
 [![img](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suowei-hu-0249b0181/)
 [![img](https://img.shields.io/badge/%20My%20Blog%20-black?style=flat-square&logo=Hugo&logoColor=white)](https://blog.simon-hu.org/)
-
+[![img](https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=gmail&logoColor=white)](mailto:suowei.h@gmail.com)
 
 
 <!-- [![Wechat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://cln.sh/XZlPyB2CmrJXqLsMr21b) -->
