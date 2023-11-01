@@ -14,14 +14,12 @@ Junior Developer at <a href="https://opc.com.au/">OPC IT</a> Pty Limited
 <!-- [![GitHub](https://img.shields.io/github/followers/SuoweiHu?label=follow&style=social)](https://github.com/SuoweiHu) --><!-- &nbsp;  -->
 <!-- [![Linkedin](https://img.shields.io/badge/-Suowei%20Hu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suowei-hu-0249b0181/)](https://www.linkedin.com/in/suowei-hu-0249b0181/)  --><!-- &nbsp; -->
 <!-- [![Hugo](https://img.shields.io/badge/Hugo-blue.svg?style=for-the-badge&logo=Hugo)](https://blog.simon-hu.org/) --><!--&nbsp; -->
+<!-- [![Wechat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://cln.sh/XZlPyB2CmrJXqLsMr21b) --><!-- &nbsp; -->
 
 [![img](https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=gmail&logoColor=white)](mailto:suowei.h@gmail.com)
 [![img](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suowei-hu-0249b0181/)
 [![img](https://img.shields.io/badge/%20My%20Blog%20-black?style=flat-square&logo=Hugo&logoColor=white)](https://blog.simon-hu.org/)
 
-
-
-<!-- [![Wechat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://cln.sh/XZlPyB2CmrJXqLsMr21b) -->
 
 ### A little more about me...  
 
@@ -30,7 +28,8 @@ const simon = {
   pronouns: "he" | "him",
   code: [PHP, Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Docker, Flask],
-  architecture: ["drupal (content management system)", "microservices", "design system pattern", "model view controller"],
+  cms: [drupal, wordpress, hugo]
+  architecture: [microservices, design system pattern, model view controller],
   challenge: "I'm striving to get myself adapting the work+uni mode."
 }
 ```
