@@ -11,9 +11,11 @@ Junior Developer at <a href="https://opc.com.au/">OPC IT</a> Pty Limited
 Младший разработчик в <a href="https://opc.com.au/">OPC IT</a>
 </em></p>
 
-[![GitHub](https://img.shields.io/github/followers/SuoweiHu?label=follow&style=social)](https://github.com/SuoweiHu)
-&nbsp;
+<!-- [![GitHub](https://img.shields.io/github/followers/SuoweiHu?label=follow&style=social)](https://github.com/SuoweiHu) -->
+<!-- &nbsp;  -->
 [![Linkedin](https://img.shields.io/badge/-Suowei%20Hu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suowei-hu-0249b0181/)](https://www.linkedin.com/in/suowei-hu-0249b0181/) 
+&nbsp;
+[![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)](https://blog.simon-hu.org/)
 &nbsp;
 
 <!-- [![Wechat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://cln.sh/XZlPyB2CmrJXqLsMr21b) -->
