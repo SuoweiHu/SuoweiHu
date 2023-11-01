@@ -23,14 +23,14 @@ Junior Developer at <a href="https://opc.com.au/">OPC IT Pty Limited</a>
 
 ### A little more about me...  
 
-```javascript
+```
 const simon = {
   pronouns:     'he' | 'him',
   challenge:    'I am striving to get myself adapting the work+uni mode.'
-  code:         ['PHP', 'Javascript', 'Typescript', 'Twig', 'HTML', 'CSS', 'Ruby', 'Python', 'Java'],
-  tools:        ['MAMP', 'Docker', 'React','Redux', 'Node', 'Flask'],
-  cms:          ['Drupal', 'Wordpress', 'Hugo'],
-  architecture: ['microservices', 'design system pattern', 'model view controller'],
+  code:         ['PHP', 'Javascript', 'Typescript', 'Twig', 'HTML', 'CSS', 'Ruby', 'Python', 'Java', 'React', 'Redux', 'Node', 'Flask'],
+  architecture: ['microservices', 'design system pattern', 'model-view-controller'],
+  cms:          ['Drupal', 'Wordpress', 'Hugo', 'Docusaurus'],
+  tools:        ['MAMP', 'Docker', 'Raycast', 'Vercel', 'Visual Studio', 'Vim (Procrastinator)'],
 }
 ```
 
