@@ -17,6 +17,7 @@ I am a full-time software engineer at OPC IT Pty Limited, where I work as a web 
 [![img](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suowei-hu-0249b0181/)
 [![img](https://img.shields.io/badge/%20My%20Blog%20-black?style=flat-square&logo=Hugo&logoColor=white)](https://blog.simon-hu.org/)
 [![img](https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=gmail&logoColor=white)](mailto:suowei.h@gmail.com)
+[![img](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/SuoweiHu)
 
 
 ### A little more about me...  
