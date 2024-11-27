@@ -5,8 +5,6 @@
 
 <p><em>
 I am a full-time software engineer at OPC IT Pty Limited, where I work as a web developer. I also tutor at the Australian National University and volunteer at Medical Pantry.
-<br/>  
-Я штатный инженер-программист в OPC IT Pty Limited, где я работаю веб-разработчиком. Я также преподаю в Австралийском национальном университете и работаю волонтером в Medical Pantry.
 </em></p>
 
 [![img](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suowei-hu-0249b0181/)
@@ -31,13 +29,9 @@ const simon = {
 <br/>
 
 <em><b>I love connecting with different people</b> so if you want to say hi, I'll be happy to meet you more! :)</em> <br/>
-<em>воля может и должна быть предметом гордости гораздо больше, чем талант</em>
 
 ---
 
 <!-- This read me is inspired from: -->
 <!-- https://github.com/Thaiane/Thaiane -->
 <!-- https://github.com/anmol098/anmol098 -->
-<!-- ... -->
-<!-- ... -->
-
