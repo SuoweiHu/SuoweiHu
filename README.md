@@ -4,11 +4,9 @@
 <!--<img align='right' src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="230">-->
 
 <p><em>
-Software Enginner at Australian National University
-Junior Developer at <a href="https://opc.com.au/">OPC IT Pty Limited</a>
+I am a full-time software engineer at OPC IT Pty Limited, where I work as a web developer. I also tutor at the Australian National University and volunteer at Medical Pantry.
 <br/>  
-Инженер-программист в ANU университете
-Младший разработчик в <a href="https://opc.com.au/">OPC IT Пти Лимитед</a>
+Я штатный инженер-программист в OPC IT Pty Limited, где я работаю веб-разработчиком. Я также преподаю в Австралийском национальном университете и работаю волонтером в Medical Pantry.
 </em></p>
 
 <!-- [![GitHub](https://img.shields.io/github/followers/SuoweiHu?label=follow&style=social)](https://github.com/SuoweiHu) --><!-- &nbsp;  -->
@@ -29,7 +27,7 @@ const simon = {
   challenge:    'I am striving to get myself adapting the work+uni mode.'
   code:         ['PHP', 'Javascript', 'Typescript', 'Twig', 'HTML', 'CSS', 'Ruby', 'Python', 'Java', 'React', 'Redux', 'Node', 'Flask'],
   architecture: ['microservices', 'design system pattern', 'model-view-controller'],
-  cms:          ['Drupal', 'Wordpress', 'Hugo', 'Docusaurus'],
+  cms:          ['GovCMS', 'Drupal', 'Wordpress', 'Hugo', 'Docusaurus', 'Kentico'],
   tools:        ['MAMP', 'Docker', 'Raycast', 'Vercel', 'Visual Studio', 'Vim (Procrastinator)'],
 }
 ```
