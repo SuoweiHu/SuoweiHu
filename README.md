@@ -4,7 +4,7 @@
 <!--<img align='right' src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="230">-->
 
 <p><em>
-I am a full-time software engineer at OPC IT Pty Limited, where I work as a web developer. I also tutor at the Australian National University and volunteer at Medical Pantry.
+So, you found me. Welcome to my blog. I am a full-time software engineer at OPC IT Pty Limited, where I work as a web developer. I also tutor at the Australian National University and volunteer at Medical Pantry. In this blog, I write about the lessons I learn during my professional journey and my interests, particularly in photography. You can also find me via the following…
 </em></p>
 
 [![img](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suowei-hu-0249b0181/)
