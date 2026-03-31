@@ -29,6 +29,7 @@ const simon = {
   ↳ libraries / frameworks / build tool / others
 }
 ```
+You can learn more about me on my LinkedIn: [suowei-hu-0249b0181](https://www.linkedin.com/in/suowei-hu-0249b0181/)
 <br/>
 
 <em><b>I love connecting with different people</b> so if you want to say hi, I'll be happy to connect ! ∪･ω･∪ </em> <br/>
