@@ -7,6 +7,7 @@
 I am a full-time software engineer at OPC IT Pty Limited, where I work as a web developer. I also tutor at the Australian National University and volunteer at Medical Pantry. You can also find me via the following…
 </em></p>
 
+[![img](https://img.shields.io/badge/-Drupal.org-blue?style=flat-square&logo=Drupal&logoColor=white)]([https://www.linkedin.com/in/suowei-hu-0249b0181/](https://www.drupal.org/u/simon_who))
 [![img](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suowei-hu-0249b0181/)
 [![img](https://img.shields.io/badge/%20My%20Blog%20-black?style=flat-square&logo=Hugo&logoColor=white)](https://blog.simon-hu.org/)
 [![img](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/SuoweiHu)
@@ -20,10 +21,12 @@ I am a full-time software engineer at OPC IT Pty Limited, where I work as a web 
 const simon = {
   pronouns:     'he' | 'him',
   challenge:    'I am striving to get myself adapting the work+uni mode.'
-  code:         ['PHP', 'Javascript', 'Typescript', 'Twig', 'HTML', 'CSS', 'Ruby', 'Python', 'Java', 'React', 'Redux', 'Node', 'Flask'],
-  architecture: ['microservices', 'design system pattern', 'model-view-controller'],
+  code:         ['HTML5', 'CSS', 'Javascript (ES6+)', 'Typescript (entry-level)', 'Twig', 'etc'],
   cms:          ['GovCMS', 'Drupal', 'Wordpress', 'Hugo', 'Docusaurus', 'Kentico'],
-  tools:        ['MAMP', 'Docker', 'Raycast', 'Vercel', 'Visual Studio', 'Vim (Procrastinator)'],
+  tools:        ['DDEV', 'MAMP', 'Docker', 'Raycast', 'Vercel', 'Visual Studio', 'Cursor', 'Vim (Procrastinator)', 'Git (lazygit)'],
+  ui/ux:        ['design system', 'component-driven development', 'mobile-first', 'Figma', 'Tailwind CSS']
+  misc:         ['React.js', 'Next.js (entry-level)', 'Vue.js', 'Nuxt (entry-level)', 'Vite', 'Laravel Mix', 'GitHub Action / GitLab Pipeline']
+  ↳ libraries / frameworks / build tool / others
 }
 ```
 <br/>
