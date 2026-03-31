@@ -31,7 +31,7 @@ const simon = {
 ```
 <br/>
 
-<em><b>I love connecting with different people</b> so if you want to say hi, I'll be happy to meet you more! :)</em> <br/>
+<em><b>I love connecting with different people</b> so if you want to say hi, I'll be happy to connect ! ∪･ω･∪ </em> <br/>
 
 ---
 
