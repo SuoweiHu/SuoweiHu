@@ -7,7 +7,7 @@
 I am a full-time software engineer at OPC IT Pty Limited, where I work as a web developer. I also tutor at the Australian National University and volunteer at Medical Pantry. You can also find me via the following…
 </em></p>
 
-[![img](https://img.shields.io/badge/-Drupal.org-blue?style=flat-square&logo=Drupal&logoColor=white)]([https://www.linkedin.com/in/suowei-hu-0249b0181/](https://www.drupal.org/u/simon_who))
+[![img](https://img.shields.io/badge/-Drupal.org-blue?style=flat-square&logo=Drupal&logoColor=white)](https://www.drupal.org/u/simon_who)
 [![img](https://img.shields.io/badge/%20Simon's%20Blog%20-red?style=flat-square&logo=Hugo&logoColor=white)](https://blog.simon-hu.org/)
 [![img](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suowei-hu-0249b0181/)
 [![img](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/SuoweiHu)
