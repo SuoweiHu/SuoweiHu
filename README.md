@@ -20,7 +20,7 @@ I am a full-time software engineer at The Australian National University, where 
 ```
 const simon = {
   pronouns:     'he' | 'him',
-  challenge:    'I am striving to get myself adapting the work+uni mode.'
+  challenge:    'I’m trying to figure out how to work more efficiently with AI without becoming overly reliant on it or compromising my ability to think independently.'
   code:         ['HTML5', 'SCSS', 'CSS', 'Javascript (ES6+)', 'Typescript (entry-level)', 'Twig', 'etc'],
   cms:          ['GovCMS', 'Drupal', 'Wordpress', 'Hugo', 'Docusaurus', 'Kentico'],
   tools:        ['DDEV', 'MAMP', 'Docker', 'Raycast', 'Vercel', 'Visual Studio', 'Cursor', 'Vim (Procrastinator)', 'Git (lazygit)'],
